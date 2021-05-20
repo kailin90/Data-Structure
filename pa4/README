@@ -1,0 +1,11 @@
+//-----------------------------------------------------------------------------
+// Kailin Zhuo
+// kzhuo
+// pa4
+//-----------------------------------------------------------------------------
+List.h      header file for List ADT
+List.cpp    List ADT functions
+ListTest.c  Tests for List.cpp
+Shuffle.c   Client of List ADT
+Makefile    makefile to compile easily
+README      If you are reading this, you are reading the README file.

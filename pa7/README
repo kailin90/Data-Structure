@@ -1,0 +1,14 @@
+//-----------------------------------------------------------------------------
+// Kailin Zhuo
+// kzhuo
+// pa7
+//-----------------------------------------------------------------------------
+Arithmetic.c        Client of BigInteger ADT
+BigInteger.c        Dictionary ADT functions
+BigInteger.h        Header file for BigInteger ADT
+BigIntegerTest.c    Tests for BigInteger.c
+List.c              List implementation file
+List.h              List header file
+ListTest.c          Tests for List.c
+README		        If you are reading this, you are reading the README file
+Makefile            Command line for compiling

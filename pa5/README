@@ -1,0 +1,11 @@
+//-----------------------------------------------------------------------------
+// Kailin Zhuo
+// kzhuo
+// pa5
+//-----------------------------------------------------------------------------
+README		        If you are reading this, you are reading the README file.
+Makefile            Command line for compiling.
+Dictionary.h        Header file for Dictionary ADT.
+Dictionary.c        Dictionary ADT functions.
+DictionaryTest.c    Tests for Dictionary.c
+Lex.c               Client of Dictionary ADT.

@@ -1,0 +1,11 @@
+//-----------------------------------------------------------------------------
+// Kailin Zhuo
+// kzhuo
+// pa1
+//-----------------------------------------------------------------------------
+List.h 		Header file for ADT.
+List.c 		ADT functions.
+ListClient.c	Provided test to test ADT modules.
+Lex.c		Read and sort input files in lexicographic order.
+Makefile	Command line for compiling.
+README		If you are reading this, you are reading the README file.
